@@ -1,0 +1,16 @@
+.Menu_Card{
+
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+}
+
+.Menu_Option{
+    border-radius: 40px;
+    background-color: white;
+    margin: 2%;
+}
+
+.Menu_Option:hover{
+    background-color: grey;
+}
